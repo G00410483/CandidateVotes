@@ -1,0 +1,17 @@
+		A	B	C	D
+
+State 1 	1	2	2	5	
+
+
+State 2 	12	1	1	3	
+
+
+State 3 	7	5	4	2	
+
+
+State 4 	18	4	5	2	
+
+
+State 5 	1	5	7	2	
+
+

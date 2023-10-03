@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\dvlas\OneDrive - Atlantic TU\2nd Year\Procedural Programming 2\CandidateVote3\CandidateVote3\Source.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\dvlas\OneDrive - Atlantic TU\2nd Year\Procedural Programming 2\CandidateVote3\CandidateVote3\Source.cpp(31,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dvlas\OneDrive - Atlantic TU\2nd Year\Procedural Programming 2\CandidateVote3\CandidateVote3\Source.cpp(39,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CandidateVote3.vcxproj -> C:\Users\dvlas\OneDrive - Atlantic TU\2nd Year\Procedural Programming 2\CandidateVote3\Debug\CandidateVote3.exe
